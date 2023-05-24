@@ -55,7 +55,7 @@
   - <b>Skills</b> :
     - Front-End : TypeScript, React.js, Recoil.js, React-Query, Styled-Components, WebPack
     - Back-End : Express.js, MySQL, MySQL-Session, Socket.io
-  - <b>Brief</b> : 2023.02 Free-Teer 기한 만료로 RDS, S3에서 저장하던 데이터를 로컬로 이전. Mui를 이용하였고, 기존에 Recoil만 쓰던 방식에서 Recoil + React-Query로 전환함으로써 프론트측에서만 쓰이는 데이터와 백에서 받아오는 데이터를 구분하여 코드의 가독성을 향상시켰습니다.
+  - <b>Brief</b> : 2023.02 Free-Teer 기한 만료로 RDS, S3에서 저장하던 데이터를 로컬로 이전. Mui를 이용하였고, 기존에 Recoil만 쓰던 방식에서 Recoil + React-Query로 전환함으로써 Recoil Store를 가볍게 만들고 프론트측에서만 쓰이는 데이터와 백에서 받아오는 데이터를 구분하여 코드의 가독성을 향상시켰습니다.
   - <b>View</b> : ![realEstate](./images/realEstate.png)
 
 ---
