@@ -4,7 +4,7 @@
 
 - E-mail : skantrkwl789@naver.com
 - GitHub : https://github.com/ikhyeons
-- Phone : 010-8689-0000
+- Phone : 010-8689-1432
 
 ## **Introduction**
 
@@ -15,7 +15,7 @@
 
 ## **Project & Experience**
 
-### 분양 플랫폼 팀 프로젝트
+### **분양 플랫폼 팀 프로젝트**
 
 - Period : 23.05.01 ~
 - GitHub : https://github.com/adopt-pet-project
@@ -25,7 +25,9 @@
 - Skills : TypeScript, Next.js, Recoil.js, React-Query, SCSS, JWT
 - view : ![adopt](./images/adopt.png)
 
-### 자취방 양도 플랫폼 개인 프로젝트
+---
+
+### **자취방 양도 플랫폼 개인 프로젝트**
 
 - Period : 22.12.06 ~ 23.04.22
 - GitHub : https://github.com/ikhyeons/realEstate
@@ -37,7 +39,9 @@
 - brief : 2023.02 Free-Teer 기한 만료로 RDS, S3에서 저장하던 데이터를 로컬로 이전
 - view : ![realEstate](./images/realEstate.png)
 
-### 텔로드론과 웹 연동 캡스톤 디자인
+---
+
+### **텔로드론과 웹 연동 캡스톤 디자인**
 
 - Period : 22.10.06 ~ 22.12.05
 - GitHub : https://github.com/ikhyeons/DroneWithReact
@@ -49,7 +53,9 @@
 - view :<br/>
   <img src="./images/tello.gif" />
 
-### 협업툴 개인 프로젝트
+---
+
+### **협업툴 개인 프로젝트**
 
 - Period : 22.05.18 ~ 22.10.06
 - GitHub : https://github.com/ikhyeons/collab
@@ -62,6 +68,20 @@
   <img src="./images/collab1.png" width="49%" height="240">
   <img src="./images/collab2.png" width="49%" height="240">
 
+---
+
+### **SNS 첫 프로젝트**
+
+- Period : 21.08 ~ 22.05
+- GitHub : https://github.com/ikhyeons/SNSnew
+- Summary : SNS 프로젝트
+- function : 게시판, 친구추가, 댓글작성, 게시글 검색, 메모
+- Skills :
+  - Front-End : HTML/CSS/JS, JSP
+  - Back-End : MySQL, JAVA
+- view :<br/>
+  <img src="./images/SNS.png" >
+
 ## **Skills**
 
 - Front-End : JavaScript, TypeScript, React.js, Next.js, HTML/CSS
@@ -72,4 +92,4 @@
 
 ## **Education**
 
-2018.03 ~ 2024.02 경상국립대학교 전자공학과
+2018.03 ~ 2024.02 경상국립대학교 융합기술공과대학 융합전자공학부 (졸업예정)
