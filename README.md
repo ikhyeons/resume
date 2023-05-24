@@ -38,7 +38,10 @@
   - <b>Position</b> : Front-End / Modals, My Page, Admin Page
   - <b>Summary</b> : 강아지, 고양이, 기타 동물들을 분양하는 이용자들 간에 커넥션을 만들어 주는 플랫폼
   - <b>Function</b> : 동물 분양, 게시판, 마이 페이지(분양 확인), 채팅, 쪽지, 로그인
-  - <b>Skills</b> : TypeScript, Next.js, Recoil.js, React-Query, SCSS, JWT
+  - <b>Skills</b> : TypeScript, Next.js, Recoil.js, React-Query, SCSS, JWT, responsive Web
+  - <b>Brief</b> : 같이 FE를 맡은 팀원분이 Next.js를 이용하여 구현하자고 하여서 Next.js를 간략하게 공부하고 작업하였다.
+    기존 React에서 Next.js로 넘어갈 때 추가되는 컨셉들은 공식문서 및 강의를 보고 구현하였고, 모르는 부분에 대해서 물어봤을 때 잘 도와주셔서 큰 부담없이 진행할 수 있었음.
+    SSR, CSR, SSG에 대해 이해할 수 있었다. 모바일 뷰를 중점으로 만들었으나, 웹 뷰에서도 위화감이 들지 않도록 사용자 경험 개선 위해 노력했습니다.
   - <b>View</b> : ![adopt](./images/adopt.png)
 
 ---
@@ -52,34 +55,37 @@
   - <b>Skills</b> :
     - Front-End : TypeScript, React.js, Recoil.js, React-Query, Styled-Components, WebPack
     - Back-End : Express.js, MySQL, MySQL-Session, Socket.io
-  - <b>Brief</b> : 2023.02 Free-Teer 기한 만료로 RDS, S3에서 저장하던 데이터를 로컬로 이전
+  - <b>Brief</b> : 2023.02 Free-Teer 기한 만료로 RDS, S3에서 저장하던 데이터를 로컬로 이전. Mui를 이용하였고, 기존에 Recoil만 쓰던 방식에서 Recoil + React-Query로 전환해 프론트측에서만 쓰이는 데이터와 백에서 받아오는 데이터를 구분하여 코드의 가독성을 향상시켰다.
   - <b>View</b> : ![realEstate](./images/realEstate.png)
 
 ---
 
-- ### **<span style="color:#6eaa5e">텔로드론과 웹 연동 캡스톤 디자인**
+- ### **<span style="color:#6eaa5e">텔로드론과 웹 연동 3인 캡스톤 디자인**
 
   - <b>Period</b> : 22.10.06 ~ 22.12.05
   - <b>GitHub</b> : https://github.com/ikhyeons/DroneWithReact
+  - <b>Position</b> : React, Node Server 개발 및 드론, Python과 UDP 통신
   - <b>Summary</b> : 텔로 드론을 웹과 연결하여 상태 표시
-  - <b>Function</b> : 텔로드론 연결, 상태 확인, 기기 간 UDP통신, openCV를 이용한 영상처리
+  - <b>Function</b> : 텔로드론 연결, 상태 확인, 기기 간 UDP통신, OpenCV를 이용한 영상처리
   - <b>Skills</b> :
     - Front-End : React.js, Styled-Components
     - Back-End : Express.js, Socket.io, Python, UDP
+  - <b>Brief</b> : 3학년 전공과목 캡스톤 디자인에서 진행한 프로젝트이다. 텔로 ↔ 파이썬 ↔ 노드 간에 각각 UDP통신을 이용하여 React로 구현한 웹과 드론을 연결하여 조종하였다. UDP와 TCP 통신방식에 대해 알았음.
   - <b>View</b> :<br/>
     <img src="./images/tello.gif" />
 
 ---
 
-- ### **<span style="color:#6eaa5e">협업툴 개인 프로젝트**
+- ### **<span style="color:#6eaa5e">협업툴 2인 프로젝트**
 
   - <b>Period</b> : 22.05.18 ~ 22.10.06
   - <b>GitHub</b> : https://github.com/ikhyeons/collab
   - <b>Summary</b> : 콜라비, 노션을 참고하여 협업툴을 제작
-  - <b>Function</b> : 프로젝트 만들기, 협업자 추가하기, 일정 달력에 CRUD, 게시글 CRUD, 게시글 문단 DnD 순서 변경, 로그인, 채팅, 멘션, 카테고리, 채팅방 CRUD
+  - <b>Function</b> : 프로젝트 만들기, 협업자 추가하기, 일정 달력에 CRUD, 게시글 CRUD, 게시글 문단 DnD 순서 변경, 로그인, 채팅, 멘션, 카테고리 & 채팅방 CRUD
   - <b>Skills</b> :
     - Front-End : React.js, Recoil.js, React-Query, Styled-Components
     - Back-End : Express.js, MySQL, MySQL-Session, Socket.io, AWS RDS, S3
+  - <b>Brief</b> : 기존 MySQL에만 데이터를 담는 방식에서 AWS에 Node 서버를 연결하여 RDS, S3에 데이터를 저장하고 받아왔다. REST API방식의 한계인 request가 없으면 갱신이 불가능한 점을 websocket socket.io를 이용하여 React ↔ Node간 실시간 통신을 구현함
   - <b>View</b> :<br/>
     <img src="./images/collab1.png" width="49%" height="240">
     <img src="./images/collab2.png" width="49%" height="240">
