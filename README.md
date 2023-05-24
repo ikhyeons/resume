@@ -1,4 +1,4 @@
-# **<span style="color:#4B89DC">성익현</span> | <span style="color:#4B89DC">Front-End Developer**</span>
+# **<span style="color:#4B89DC">성익현</span> | <span style="color:#4B89DC">Front-End Developer</span> | 성장하는 개발자**
 
 | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikhyeons&show_icons=true&theme=tokyonight) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ikhyeons&layout=compact&theme=tokyonight) |
 | :---------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------: |
@@ -49,7 +49,7 @@
   - <b>Skills</b> :
     - Front-End : TypeScript, React.js, Recoil.js, React-Query, Styled-Components, WebPack
     - Back-End : Express.js, MySQL, MySQL-Session, Socket.io
-  - <b>Summary</b> : 자취생들 간에 원룸을 양도하려면 에브리타임과 같은 일반 커뮤니티를 이용하였는데, 이러한 양도 시스템을 분리한 플랫폼입니다. 2023.02 AWS Free-Teer 기한 만료로 RDS, S3에서 저장하던 데이터를 로컬로 이전하였고, 기존에 Recoil만 쓰던 방식에서 Recoil + React-Query로 전환함으로써 Recoil Store를 가볍게 만들고 프론트측에서만 쓰이는 데이터와 백에서 받아오는 데이터를 구분하여 코드의 가독성을 향상시켰습니다.
+  - <b>Summary</b> : 자취생들 간에 원룸을 양도하려면 에브리타임과 같은 일반 커뮤니티를 이용하였는데, 이러한 양도 시스템을 분리한 플랫폼입니다. 2023.02 AWS Free-Teer 기한 만료로 RDS, S3에서 저장하던 데이터를 로컬로 이전하였고, 기존에 Recoil만 쓰던 방식에서 Recoil + React-Query로 전환함으로써 Recoil Store를 가볍게 만들고 프론트측에서만 쓰이는 데이터와 백에서 받아오는 데이터를 구분하여 코드의 가독성을 개선하였습니다.
   - <b>View</b> : ![realEstate](./images/realEstate.png)
 
 ---
