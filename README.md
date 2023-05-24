@@ -31,7 +31,7 @@
 
 ## **<span style="color:#008000">Project & Experience**
 
-- ### **<span style="color:#6eaa5e">분양 플랫폼 팀 프로젝트**
+- ### **<span style="color:#6eaa5e">분양 플랫폼 팀 프로젝트 4인**
 
   - <b>Period</b> : 23.05.01 ~
   - <b>GitHub</b> : https://github.com/adopt-pet-project
@@ -54,7 +54,7 @@
 
 ---
 
-- ### **<span style="color:#6eaa5e">텔로드론과 웹 연동 3인 캡스톤 디자인**
+- ### **<span style="color:#6eaa5e">텔로드론과 웹 연동 캡스톤 디자인 3인**
 
   - <b>Period</b> : 22.10.06 ~ 22.12.05
   - <b>GitHub</b> : https://github.com/ikhyeons/DroneWithReact
@@ -68,7 +68,7 @@
 
 ---
 
-- ### **<span style="color:#6eaa5e">협업툴 2인 프로젝트**
+- ### **<span style="color:#6eaa5e">협업툴 개인 프로젝트**
 
   - <b>Period</b> : 22.05.18 ~ 22.10.06
   - <b>GitHub</b> : https://github.com/ikhyeons/collab
@@ -85,7 +85,7 @@
 
 ---
 
-- ### **<span style="color:#6eaa5e">첫 프로젝트 SNS**
+- ### **<span style="color:#6eaa5e">첫 개인 프로젝트 SNS**
 
   - <b>Period</b> : 21.08 ~ 22.05
   - <b>GitHub</b> : https://github.com/ikhyeons/SNSnew
