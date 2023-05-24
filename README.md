@@ -85,7 +85,7 @@
 ## **Skills**
 
 - Front-End : JavaScript, TypeScript, React.js, Next.js, HTML/CSS
-- Back-End : Node.js
+- Back-End : Node.js, Express.js
 - Database : MySQL
 - Deploy : Git Actions
 - Collaboration : Notion, Git
