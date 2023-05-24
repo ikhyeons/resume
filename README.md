@@ -19,7 +19,7 @@
 
 ## **<span style="color:#008000">Skills**
 
-- <b>Front-End</b> : JavaScript, TypeScript, React.js, Next.js, HTML/CSS, Jest, RTL
+- <b>Front-End</b> : JavaScript, TypeScript, React.js, Next.js, HTML/CSS, Jest + RTL
 - <b>Back-End</b> : Node.js, Express.js
 - <b>Database</b> : MySQL
 - <b>Deploy</b> : Git Actions
@@ -39,9 +39,9 @@
   - <b>Summary</b> : 강아지, 고양이, 기타 동물들을 분양하는 이용자들 간에 커넥션을 만들어 주는 플랫폼
   - <b>Function</b> : 동물 분양, 게시판, 마이 페이지(분양 확인), 채팅, 쪽지, 로그인
   - <b>Skills</b> : TypeScript, Next.js, Recoil.js, React-Query, SCSS, JWT, responsive Web
-  - <b>Brief</b> : 같이 FE를 맡은 팀원분이 Next.js를 이용하여 구현하자고 하여서 Next.js를 간략하게 공부하고 작업하였다.
-    기존 React에서 Next.js로 넘어갈 때 추가되는 컨셉들은 공식문서 및 강의를 보고 구현하였고, 모르는 부분에 대해서 물어봤을 때 잘 도와주셔서 큰 부담없이 진행할 수 있었음.
-    SSR, CSR, SSG에 대해 이해할 수 있었다. 모바일 뷰를 중점으로 만들었으나, 웹 뷰에서도 위화감이 들지 않도록 사용자 경험 개선 위해 노력했습니다.
+  - <b>Brief</b> : 같이 FE를 맡은 팀원분이 Next.js를 이용하여 구현하자고 하여서 Next.js를 간략하게 공부하고 작업하였습니다.
+    기존 React에서 Next.js로 넘어갈 때 추가되는 컨셉들은 공식문서 및 강의를 보고 구현하였고, 모르는 부분에 대해서 물어봤을 때 잘 도와주셔서 큰 부담없이 진행할 수 있었습니다.
+    SSR, CSR, SSG에 대해 이해할 수 있었고, 모바일 뷰를 중점으로 만들었으나, 웹 뷰에서도 위화감이 들지 않도록 사용자 경험 개선을 위해 노력하였습니다.
   - <b>View</b> : ![adopt](./images/adopt.png)
 
 ---
@@ -55,7 +55,7 @@
   - <b>Skills</b> :
     - Front-End : TypeScript, React.js, Recoil.js, React-Query, Styled-Components, WebPack
     - Back-End : Express.js, MySQL, MySQL-Session, Socket.io
-  - <b>Brief</b> : 2023.02 Free-Teer 기한 만료로 RDS, S3에서 저장하던 데이터를 로컬로 이전. Mui를 이용하였고, 기존에 Recoil만 쓰던 방식에서 Recoil + React-Query로 전환해 프론트측에서만 쓰이는 데이터와 백에서 받아오는 데이터를 구분하여 코드의 가독성을 향상시켰다.
+  - <b>Brief</b> : 2023.02 Free-Teer 기한 만료로 RDS, S3에서 저장하던 데이터를 로컬로 이전. Mui를 이용하였고, 기존에 Recoil만 쓰던 방식에서 Recoil + React-Query로 전환함으로써 프론트측에서만 쓰이는 데이터와 백에서 받아오는 데이터를 구분하여 코드의 가독성을 향상시켰습니다.
   - <b>View</b> : ![realEstate](./images/realEstate.png)
 
 ---
@@ -70,7 +70,7 @@
   - <b>Skills</b> :
     - Front-End : React.js, Styled-Components
     - Back-End : Express.js, Socket.io, Python, UDP
-  - <b>Brief</b> : 3학년 전공과목 캡스톤 디자인에서 진행한 프로젝트이다. 텔로 ↔ 파이썬 ↔ 노드 간에 각각 UDP통신을 이용하여 React로 구현한 웹과 드론을 연결하여 조종하였다. UDP와 TCP 통신방식에 대해 알았음.
+  - <b>Brief</b> : 3학년 전공과목 캡스톤 디자인에서 진행한 프로젝트입니다. 텔로 ↔ 파이썬 ↔ 노드 간에 각각 UDP통신을 이용하여 React로 구현한 웹과 드론을 연결하여 조종하였고, UDP와 TCP 통신방식에 대해 알게 되었습니다.
   - <b>View</b> :<br/>
     <img src="./images/tello.gif" />
 
@@ -85,7 +85,7 @@
   - <b>Skills</b> :
     - Front-End : React.js, Recoil.js, React-Query, Styled-Components
     - Back-End : Express.js, MySQL, MySQL-Session, Socket.io, AWS RDS, S3
-  - <b>Brief</b> : 기존 MySQL에만 데이터를 담는 방식에서 AWS에 Node 서버를 연결하여 RDS, S3에 데이터를 저장하고 받아왔다. REST API방식의 한계인 request가 없으면 갱신이 불가능한 점을 websocket socket.io를 이용하여 React ↔ Node간 실시간 통신을 구현함
+  - <b>Brief</b> : 기존 MySQL에만 데이터를 담는 방식에서 AWS에 Node 서버를 연결하여 RDS, S3에 데이터를 저장하고 받아왔습니다. REST API방식의 한계인 request가 없으면 갱신이 불가능한 점을 websocket socket.io를 이용하여 백에서 발생한 이벤트를 능동적으로 클라이언트로 보내어 React ↔ Node간 실시간 통신을 구현하였습니다.
   - <b>View</b> :<br/>
     <img src="./images/collab1.png" width="49%" height="240">
     <img src="./images/collab2.png" width="49%" height="240">
@@ -105,3 +105,5 @@
     <img src="./images/SNS.png" >
 
 ---
+
+마지막 수정 : 2023.05.25
