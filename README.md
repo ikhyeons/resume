@@ -1,5 +1,9 @@
 # **<span style="color:#4B89DC">성익현</span> | <span style="color:#4B89DC">Front-End Developer**</span>
 
+| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikhyeons&show_icons=true&theme=tokyonight) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ikhyeons&layout=compact&theme=tokyonight) |
+| :---------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------: |
+|                                                                                                                         |                                                                                                                       |
+
 ## **<span style="color:#008000">Information**
 
 - <b>E-mail</b> : skantrkwl789@naver.com
@@ -15,7 +19,7 @@
 
 ## **<span style="color:#008000">Skills**
 
-- <b>Front-End</b> : JavaScript, TypeScript, React.js, Next.js, HTML/CSS
+- <b>Front-End</b> : JavaScript, TypeScript, React.js, Next.js, HTML/CSS, Jest, RTL
 - <b>Back-End</b> : Node.js, Express.js
 - <b>Database</b> : MySQL
 - <b>Deploy</b> : Git Actions
