@@ -1,4 +1,4 @@
-# **<span style="color:#4B89DC">성익현 | Front-End Developer**
+# **<span style="color:#4B89DC">성익현</span> | <span style="color:#4B89DC">Front-End Developer**</span>
 
 ## **<span style="color:#008000">Information**
 
