@@ -86,7 +86,7 @@
 
 ---
 
-- ### **<span style="color:#6eaa5e">SNS 첫 프로젝트**
+- ### **<span style="color:#6eaa5e">첫 프로젝트 SNS**
 
   - <b>Period</b> : 21.08 ~ 22.05
   - <b>GitHub</b> : https://github.com/ikhyeons/SNSnew
