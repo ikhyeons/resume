@@ -10,12 +10,16 @@
 - <b>GitHub</b> : https://github.com/ikhyeons
 - <b>Phone</b> : 010-8689-1432
 
+---
+
 ## **<span style="color:#008000">Introduction**
 
 신입 개발자로 <b>Web 개발</b>에 관심이 있으며, <b>Front-End</b> 개발자를 목표로 하고 있습니다.<br/>
 시간이 날 때 마다 작은 개인 프로젝트들을 진행하고 있으며, 틈틈히 팀 프로젝트를 진행합니다.<br/>
 <b>꼼꼼한 기획과 설계</b>를 기반으로 프로젝트를 구현하는 것을 선호합니다.<br/>
 새로운 기술을 <b>학습</b>하고 <b>도전</b>하는 것을 좋아합니다.<br/>
+
+---
 
 ## **<span style="color:#008000">Skills**
 
@@ -25,11 +29,22 @@
 - <b>Deploy</b> : Git Actions
 - <b>Collaboration</b> : Notion, Git
 
+---
+
 ## **<span style="color:#008000">Education**
 
-<b>2018.03 ~ 2024.02</b> : 경상국립대학교 융합기술공과대학 융합전자공학부 (졸업예정)
+<b>2018.03 ~ 2024.02</b> : 경상국립대학교 융합기술공과대학 융합전자공학부
+(졸업예정)
+
+---
 
 ## **<span style="color:#008000">Project & Experience**
+
+- ### **<span style="color:#6eaa5e">Git Actions를 이용한 연구실 프로젝트 배포**
+  - <b>Period</b> : 23.05.27 ~
+  - <b>Summary</b> : Git Actions를 이용하여 연구실 내 서버 컴퓨터에 Runner를 설치하고 각 팀원의 repo에 연결하여 배포 자동화를 구현
+
+---
 
 - ### **<span style="color:#6eaa5e">분양 플랫폼 팀 프로젝트 4인**
 
@@ -43,7 +58,6 @@
 ---
 
 - ### **<span style="color:#6eaa5e">자취방 양도 플랫폼 개인 프로젝트**
-
   - <b>Period</b> : 22.12.06 ~ 23.04.22
   - <b>GitHub</b> : https://github.com/ikhyeons/realEstate
   - <b>Skills</b> :
@@ -65,6 +79,12 @@
   - <b>Summary</b> : 텔로 드론을 웹과 연결하여 상태를 표시하고 조종하는 프로젝트 입니다. 3학년 전공과목 캡스톤 디자인에서 진행한 프로젝트며, 드론 ↔ 파이썬 ↔ 노드 간에 각각 UDP통신을 이용하여 React로 구현한 웹과 드론을 연결하여 조종하였고, 영상은 OpenCV를 이용하여 구현하였습니다.
   - <b>View</b> :<br/>
     <img src="./images/tello.gif" />
+
+---
+
+- ### **<span style="color:#6eaa5e">경상국립대 전자공학과 프로그래밍 연구실 랩장 및 서버팀장**
+  - <b>Period</b> : 랩장 : 22.07 ~ 23.03 / 서버팀장 : 22.08 ~
+  - <b>Summary</b> : 팀 내 소통을 위한 Code-Review 도입
 
 ---
 
@@ -99,4 +119,4 @@
 
 ---
 
-마지막 수정 : 2023.05.25
+마지막 수정 : 2023.06.02
