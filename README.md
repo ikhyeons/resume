@@ -51,7 +51,7 @@
   - <b>Period</b> : 23.05.01 ~
   - <b>GitHub</b> : https://github.com/adopt-pet-project
   - <b>Position</b> : Front-End / Modals, My Page, Admin Page
-  - <b>Skills</b> : TypeScript, Next.js, Recoil.js, React-Query, SCSS, JWT, responsive Web
+  - <b>Skills</b> : TypeScript, Next.js, Recoil.js, SCSS, JWT, responsive Web
   - <b>Summary</b> : 강아지, 고양이, 기타 동물들을 분양하는 이용자들 간에 커넥션을 만들어 주는 플랫폼 입니다. 모바일 뷰를 중점으로 만들었고, 웹 뷰에서도 위화감이 들지 않도록 사용자 경험 개선을 위해 노력하였습니다.
   - <b>View</b> : ![adopt](./images/adopt.png)
 
