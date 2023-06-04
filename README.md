@@ -23,7 +23,7 @@
 
 ## **<span style="color:#008000">Skills**
 
-- <b>Front-End</b> : JavaScript, TypeScript, React.js, Next.js, HTML/CSS, Jest + RTL
+- <b>Front-End</b> : JavaScript, TypeScript, React.js, Next.js, HTML/CSS
 - <b>Back-End</b> : Node.js, Express.js
 - <b>Database</b> : MySQL
 - <b>Deploy</b> : Git Actions
