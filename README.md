@@ -50,9 +50,10 @@
 
   - <b>Period</b> : 23.05.01 ~
   - <b>GitHub</b> : https://github.com/adopt-pet-project
-  - <b>Position</b> : Front-End / Modals, My Page, Admin Page
+  - <b>Position</b> : Front-End / Alarm, Modals, My Page, Admin Page
   - <b>Skills</b> : TypeScript, Next.js, Recoil.js, SCSS, JWT, responsive Web
   - <b>Summary</b> : 강아지, 고양이, 기타 동물들을 분양하는 이용자들 간에 커넥션을 만들어 주는 플랫폼 입니다. 모바일 뷰를 중점으로 만들었고, 웹 뷰에서도 위화감이 들지 않도록 사용자 경험 개선을 위해 노력하였습니다.
+  - <b>url<b> : https://pet-hub.site/
   - <b>View</b> : ![adopt](./images/adopt.png)
 
 ---
@@ -64,6 +65,7 @@
     - Front-End : TypeScript, React.js, Recoil.js, React-Query, Styled-Components, WebPack
     - Back-End : Express.js, MySQL, MySQL-Session, Socket.io
   - <b>Summary</b> : 자취생들 간에 원룸을 양도하려면 에브리타임과 같은 일반 커뮤니티를 이용하였는데, 이러한 양도 시스템을 분리한 플랫폼입니다. 2023.02 AWS Free-Teer 기한 만료로 RDS, S3에서 저장하던 데이터를 로컬로 이전하였고, 기존에 Recoil만 쓰던 방식에서 Recoil + React-Query로 전환함으로써 Recoil Store를 가볍게 만들고 프론트측에서만 쓰이는 데이터와 백에서 받아오는 데이터를 구분하여 코드의 가독성을 개선하였습니다.
+  - <b>url<b> : http://203.232.200.71:4004/
   - <b>View</b> : ![realEstate](./images/realEstate.png)
 
 ---
@@ -97,6 +99,7 @@
     - Front-End : React.js, Recoil.js, React-Query, Styled-Components
     - Back-End : Express.js, MySQL, MySQL-Session, Socket.io, AWS RDS, S3
 
+  - <b>url<b> : http://203.232.200.71:5004/
   - <b>Summary</b> : 콜라비, 노션을 참고하여 프로젝트를 만들고 각 프로젝트에 유저를 초대하여 협업을 하는 프로젝트 입니다. 기존 MySQL에만 데이터를 담는 방식에서 AWS에 Node 서버를 연결하여 RDS, S3에 데이터를 저장하고 받아왔습니다. REST API방식의 한계인 request가 없으면 갱신이 불가능한 점을 Socket.io를 이용하여 백에서 발생한 이벤트를 능동적으로 클라이언트로 보내어 React ↔ Node간 실시간 통신을 구현하였습니다.
 
   - <b>View</b> :<br/>
